@@ -1,0 +1,6 @@
+.env
+.eslint.trc.json
+node_modules
+config.json
+
+*.js.ingore
