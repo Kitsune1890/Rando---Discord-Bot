@@ -31,7 +31,6 @@ for (const file of cmdFiles) {
     }
 }
 
-
 client.on(Events.InteractionCreate, async interaction => {
     if(!interaction.isChatInputCommand()) return;
     //console.log(interaction);
