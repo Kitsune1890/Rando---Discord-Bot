@@ -1,5 +1,5 @@
 .env
-.eslint.trc.json
+.eslintrc.json
 node_modules
 config.json
 
